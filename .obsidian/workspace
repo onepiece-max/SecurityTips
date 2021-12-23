@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "3c8140c2f9742f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17fb5efad8738f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c36103a894daaf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8a686f704d75671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50777dcb5d7b9ab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72f388d23ab68a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ba62bfaea28f3d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "953c7ac6caed1e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea19f153400f73ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b17fb5efad8738f0",
+  "lastOpenFiles": [
+    "README.md",
+    "Web/SQL Injection/Test_SQL_Injection_Fiddle.jpg",
+    "Web/CORS/Breaking_CORS_Chrome_Cache.png",
+    "Web/JavaScript/Monitor_Changes_In_JS_1.jpg",
+    "Web/Samesite/Samesite_Common_Info.jpg",
+    "Web/Samesite/Bypassing_Samesite_120_secs.jpg",
+    "Web/WebSockets/Websocket_Hijacking.jpg",
+    "Web/XSS/Encodings_JS_XSS.jpg",
+    "Web/XSS/Mutation_Points_HTML_XSS.jpg",
+    "Web/Bypass_403_Top_4.jpg"
+  ]
+}
